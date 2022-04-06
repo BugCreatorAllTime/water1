@@ -1,0 +1,22 @@
+{
+  "level": "NIVEAU",
+  "setting": {
+    "title": "RÉGLAGE",
+    "sound": "Sonner",
+    "music": "Musique",
+    "vibrate": "Vibrer",
+    "restore_purchase": "Restaurer\nl'achat"
+  },
+  "shop": {
+    "tube": "BOUTEILLE",
+    "theme": "THÈME",
+    "iap": "IAP",
+    "unlock": "Aléatoire",
+    "remove_ads": "SUPPRIMEZ LA PUB"
+  },
+  "tap_to_cont": "Appuyez pour continuer",
+  "tutorial": {
+    "tap_to_pour": "Appuyez pour choisir la bouteille",
+    "guide_text": "Seul le liquide de MÊME COULEUR peut être versé les uns sur les autres"
+  }
+}

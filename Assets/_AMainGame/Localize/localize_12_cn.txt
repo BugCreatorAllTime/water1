@@ -1,0 +1,22 @@
+{
+  "level": "等级",
+  "setting": {
+    "title": "环境",
+    "sound": "声音",
+    "music": "音乐",
+    "vibrate": "颤动",
+    "restore_purchase": "恢复购买"
+  },
+  "shop": {
+    "tube": "瓶子",
+    "theme": "主题",
+    "iap": "IAP",
+    "unlock": "随机的",
+    "remove_ads": "移除广告"
+  },
+  "tap_to_cont": "点按以继续",
+  "tutorial": {
+    "tap_to_pour": "点按以选择瓶子",
+    "guide_text": "只有相同颜色的液体\n可以倒在彼此的上面"
+  }
+}

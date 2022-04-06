@@ -1,0 +1,22 @@
+{
+  "level": "CẤP ĐỘ",
+  "setting": {
+    "title": "CÀI ĐẶT",
+    "sound": "Âm thanh",
+    "music": "Nhạc nền",
+    "vibrate": "Rung",
+    "restore_purchase": "Khôi phục\nmua hàng"
+  },
+  "shop": {
+    "tube": "BÌNH LỌ",
+    "theme": "CHỦ ĐỀ",
+    "iap": "VẬT PHẨM",
+    "unlock": "MỞ NGẪU NHIÊN",
+    "remove_ads": "BỎ QUẢNG CÁO"
+  },
+  "tap_to_cont": "Chạm để tiếp tục",
+  "tutorial": {
+    "tap_to_pour": "Chạm để nhấc lọ",
+    "guide_text": "Chỉ những nước cùng màu\nmới có thể đổ lên nhau"
+  }
+}

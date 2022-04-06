@@ -1,0 +1,22 @@
+{
+  "level": "レベル",
+  "setting": {
+    "title": "設定",
+    "sound": "声音",
+    "music": "音楽",
+    "vibrate": "バイブレーション",
+    "restore_purchase": "購入商品を\n復元する"
+  },
+  "shop": {
+    "tube": "ボトル",
+    "theme": "テーマ",
+    "iap": "IAP",
+    "unlock": "ランダムで\nアンロック",
+    "remove_ads": "広告を削除"
+  },
+  "tap_to_cont": "タップして続行",
+  "tutorial": {
+    "tap_to_pour": "タップしてボトルを選ぶ",
+    "guide_text": "同じ色の液体だけを\n重ねて注ぐことができます"
+  }
+}

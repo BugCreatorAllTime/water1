@@ -1,0 +1,22 @@
+{
+  "level": "수평",
+  "setting": {
+    "title": "설정",
+    "sound": "소리",
+    "music": "음악",
+    "vibrate": "떨리다",
+    "restore_purchase": "구매\n복원"
+  },
+  "shop": {
+    "tube": "병",
+    "theme": "테마",
+    "iap": "IAP",
+    "unlock": "잠금 해제 임의",
+    "remove_ads": "광고를 제거하다"
+  },
+  "tap_to_cont": "계속 눌러",
+  "tutorial": {
+    "tap_to_pour": "병을 선택하는 탭",
+    "guide_text": "만 같은 색의 액체\n서로의 상부에 주입 할 수있다"
+  }
+}

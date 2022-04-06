@@ -1,0 +1,22 @@
+{
+  "level": "NIVEL",
+  "setting": {
+    "title": "CONFIGURACIÓN",
+    "sound": "Sonar",
+    "music": "Música",
+    "vibrate": "Vibrar",
+    "restore_purchase": "Restaurar\ncompra"
+  },
+  "shop": {
+    "tube": "BOTELLA",
+    "theme": "TEMA",
+    "iap": "IAP",
+    "unlock": "Aleatorio",
+    "remove_ads": "QUITAR ANUNCIOS"
+  },
+  "tap_to_cont": "Pulse para continuar",
+  "tutorial": {
+    "tap_to_pour": "Toca para recoger la botella",
+    "guide_text": "Solo se puede verter líquido del MISMO COLOR uno encima del otro"
+  }
+}

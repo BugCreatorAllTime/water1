@@ -1,0 +1,22 @@
+{
+  "level": "स्तर",
+  "setting": {
+    "title": "स्थापना",
+    "sound": "ध्वनि",
+    "music": "संगीत",
+    "vibrate": "कंपन",
+    "restore_purchase": "पुनःस्थापन क्रय"
+  },
+  "shop": {
+    "tube": "बोतल",
+    "theme": "थीम",
+    "iap": "IAP",
+    "unlock": "अनलॉक रैंडम",
+    "remove_ads": "विज्ञापन हटाएँ"
+  },
+  "tap_to_cont": "जारी रखने के लिए दबाएं",
+  "tutorial": {
+    "tap_to_pour": "बोतल लेने के लिए टैप करें",
+    "guide_text": "केवल SAME COLOR तरल को एक दूसरे के ऊपर डाला जा सकता है"
+  }
+}

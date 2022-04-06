@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>Type</key>
+    <string>EgoXproject Change File</string>
+    <key>Version</key>
+    <integer>2</integer>
+    <key>BuildPlatform</key>
+    <string>iOS</string>
+    <key>InfoPlist</key>
+    <dict>
+      <key>NSPhotoLibraryUsageDescription</key>
+      <string>to save captured gameplay images</string>
+      <key>NSPhotoLibraryAddUsageDescription</key>
+      <string>to save captured gameplay images</string>
+      <key>NSLocationAlwaysUsageDescription</key>
+      <string>to serve ads more relevant to you</string>
+      <key>NSAppTransportSecurity</key>
+      <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true />
+      </dict>
+      <key>GADApplicationIdentifier</key>
+      <string>ca-app-pub-4199798614228144~2204001751</string>
+      <key>NSCalendarsUsageDescription</key>
+      <string>needs your calendar to provide personalised advertising experience tailored to you</string>
+    </dict>
+    <key>Frameworks</key>
+    <dict>
+      <key>System</key>
+      <array />
+    </dict>
+    <key>FilesAndFolders</key>
+    <dict>
+      <key>Entries</key>
+      <array />
+    </dict>
+    <key>BuildSettings</key>
+    <array>
+      <dict>
+        <key>Name</key>
+        <string>CLANG_ENABLE_MODULES</string>
+        <key>Value</key>
+        <string>YES</string>
+      </dict>
+    </array>
+    <key>Signing</key>
+    <dict>
+      <key>TeamId</key>
+      <string>PVTM39BSFL</string>
+    </dict>
+    <key>Scripts</key>
+    <array />
+    <key>Capabilities</key>
+    <dict />
+  </dict>
+</plist>

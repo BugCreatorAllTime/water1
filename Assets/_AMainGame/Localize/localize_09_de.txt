@@ -1,0 +1,22 @@
+{
+  "level": "NIVEAU",
+  "setting": {
+    "title": "RAHMEN",
+    "sound": "Klang",
+    "music": "Musik",
+    "vibrate": "Vibrieren",
+    "restore_purchase": "Kauf wiederherstellen"
+  },
+  "shop": {
+    "tube": "FLASCHE",
+    "theme": "THEMA",
+    "iap": "IAP",
+    "unlock": "Zufällig",
+    "remove_ads": "ANZEIGEN ENTFERNEN"
+  },
+  "tap_to_cont": "Tippen Sie, um fortzufahren",
+  "tutorial": {
+    "tap_to_pour": "Tippen Sie auf, um die Flasche auszuwählen",
+    "guide_text": "Es kann nur die gleiche Farbe Flüssigkeit übereinander gegossen werden"
+  }
+}

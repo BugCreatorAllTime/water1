@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66b95646567d34143b776fab7ceb63f2, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  key: dfafac82ef81ecf4381677dc3f6c7630
+  standAloneKey: dfafac82ef81ecf4381677dc3f6c7630_PC
+  fileFormat: 1
+  password: ngoc123
+  encryptOnStandalone: 1
+  encryptOnMobile: 1
+  encryptOnEditor: 0
+  currentData:
+    level: 4
+    maxLevelReached: 4
+    levelDifficultyChangeCount: 0
+    levelsHardModeCompleted: 
+    coins: 5000
+    currentTubeSkinId: 0
+    tubeSkinStates: 010000000000
+    currentThemeId: 0
+    themeStates: 010000000000
+    lastLoadedlevel: 0
+    availableUndoCount: 5
+    gameCount: 31
+    gameCountThisLevel: 0
+    gameCountLastLevel: 1
+    lastTimeSaved: 637782134432949194
+    installTime: 637781214489449299
+    timeSpentInGame: 405
+    lastLaunchVersion: 1.0
+    currentVersion: 1.0
+  saveCurrentData: 0
+  defaultData:
+    level: 0
+    maxLevelReached: 0
+    levelDifficultyChangeCount: 0
+    levelsHardModeCompleted: 
+    coins: 0
+    currentTubeSkinId: 0
+    tubeSkinStates: 010000000000
+    currentThemeId: 0
+    themeStates: 010000000000
+    lastLoadedlevel: 0
+    availableUndoCount: 5
+    gameCount: 0
+    gameCountThisLevel: 0
+    gameCountLastLevel: 0
+    lastTimeSaved: -99
+    installTime: -1
+    timeSpentInGame: 0
+    lastLaunchVersion: 
+    currentVersion: 
+  test_weaponId: 5
+  test_weaponLevel: 2

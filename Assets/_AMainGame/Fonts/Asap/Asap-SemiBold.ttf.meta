@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 694c130d3d3872e449aa67b7f960d172
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Asap SemiBold
+  fontNames:
+  - Asap SemiBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6825bad01f300f24785e2d3cbead10f3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
