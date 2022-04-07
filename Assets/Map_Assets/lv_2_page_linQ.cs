@@ -79,6 +79,7 @@ public class lv_2_page_linQ : MonoBehaviour
                 newbt.GetComponent<Button>().onClick.AddListener(delegate
                 {
                         SceneManager.LoadScene("Main");
+                        Ads_Controller.Show_InterstitialAds();
                 });
                 newItem.ObjLevel = newbt;
                 //newItem.StatusLock = true;
